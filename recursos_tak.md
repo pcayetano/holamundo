@@ -8,7 +8,7 @@
 4. [Sobre CoT](#id-4)
 5. [WinTAK](#id-5)
 
-## TAK Server instalar y configurar {#id-1}
+## TAK Server instalar y configurar{#id-1}
 
 Descarga oficial de **paquetes, manual de instalación, SDK** y vídeos. Hay que registrarse para poder descargar. <https://tak.gov/products/tak-server>.
 En tak.gov, una vez registrados y logados, ir a productos.
