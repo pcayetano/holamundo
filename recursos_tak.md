@@ -20,7 +20,7 @@ En esta sección <https://tak.gov/documentation/resources/tak-developers> hay mu
 **Let's Build a TAK Server:** <https://mytecknet.com/lets-build-a-tak-server/>
 Guía de instalación y configuración paso a paso actualizada en ene 24. Amplía la info de la guía oficial y hace algunos pasos diferentes. P. ej:
 
-- Crea una CA delegada intermedia además del certificado raíz, que creo es una buena práctica.
+- Crea una CA delegada intermedia además del certificado raíz, que es una buena práctica.
 
 - Instalación postgreSQL diferente.
 
