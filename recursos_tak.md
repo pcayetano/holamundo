@@ -2,7 +2,7 @@
 
 [pcyetano. v1.0]: #
 
-1. [TAK Server instalar y configurar](#id-1)
+1. [TAK Server instalar y configurar](#tak-server-instalar-y-configurar)
 2. [Configuración ATAK](#id-2)
 3. [Mapas en ATAK](#id-3)
 4. [Sobre CoT](#id-4)
@@ -38,7 +38,7 @@ Un script explicado para emitir certificados de usuario.
 **TAK Product Center, a U.S. Government Organization:** <https://github.com/TAK-Product-Center/Server>
 Repo Github oficial de TAK server.
 
-## Configuración ATAK {#id-2}
+## Configuración ATAK
 
 - ATAK System Requirements: <https://tak.gov/documentation/resources/atak-system-requirements>
 
@@ -60,7 +60,7 @@ Repo Github oficial de TAK server.
 
 Una vez instalado, el **manual de usuario** de ATAK en pdf está disponible en menú burger esquina derecha / Configuraciones / Apoyo (support) / ATAK Documents.
 
-## Mapas en ATAK {#id-3}
+## Mapas en ATAK
 
 - Add a WMS Imagery Layer to ATAK: <https://tak.gov/documentation/resources/add-a-wms-imagery-layer-to-atak>
 
@@ -70,7 +70,7 @@ Una vez instalado, el **manual de usuario** de ATAK en pdf está disponible en m
 
 - GDAL Tips and Tricks: <https://tak.gov/documentation/resources/gdal-tips-and-tricks>. ATAK makes use of many different formats of data but in some cases, the data is not always in the most optimal format for use.   Here are some tips and tricks for converting data from one format to another.
 
-## Sobre CoT {#id-4}
+## Sobre CoT
 
 **CoT Network:** <https://tak.gov/documentation/resources/network-communication-protocols>. Habla sobre las dos implementaciones soportadas en una red TAK: **CoT XML** y **Protocol Buffer** (protobuf, especificación de google). Incluye enlace a  los **esquemas de CoT**: <https://tak.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmtLIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--59067aa9c4b315e1b72116b40079c345a8da5548/Base_CoT_Schema.zip>
 
@@ -78,7 +78,7 @@ Una vez instalado, el **manual de usuario** de ATAK en pdf está disponible en m
 
 **Repos públicos en github sobre CoT.**: <https://github.com/topics/cursor-on-target>
 
-## WinTAK {#id-5}
+## WinTAK
 
 **WinTAK System Requirements**: Windows 10 y 8 GB RAM recomendado.Graphics processor that supports D3D9 or D3D11. <https://tak.gov/documentation/resources/wintak-system-requirements>
 
