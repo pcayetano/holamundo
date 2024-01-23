@@ -3,10 +3,10 @@
 [pcyetano. v1.0]: #
 
 1. [TAK Server instalar y configurar](#tak-server-instalar-y-configurar)
-2. [Configuración ATAK](#id-2)
-3. [Mapas en ATAK](#id-3)
-4. [Sobre CoT](#id-4)
-5. [WinTAK](#id-5)
+2. [Configurar ATAK](#configurar-atak)
+3. [Mapas en ATAK](#mapas-en-atak)
+4. [Sobre CoT](#sobre-cot)
+5. [WinTAK](#wintak)
 
 ## TAK Server instalar y configurar
 
@@ -38,7 +38,7 @@ Un script explicado para emitir certificados de usuario.
 **TAK Product Center, a U.S. Government Organization:** <https://github.com/TAK-Product-Center/Server>
 Repo Github oficial de TAK server.
 
-## Configuración ATAK
+## Configurar ATAK
 
 - ATAK System Requirements: <https://tak.gov/documentation/resources/atak-system-requirements>
 
